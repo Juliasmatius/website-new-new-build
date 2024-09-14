@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Juli's site</title>
   <link>https://julimiro.eu</link>
-  <updated>2024-02-19</updated>
+  <updated>2024-09-14</updated>
   <entry>
-    <title>I installed linux on my phone</title>
-    <link href="https://julimiro.eu/posts/pmosphone"/>
-    <updated>2024-02-19</updated>
+    <title>silly test page</title>
+    <link href="https://julimiro.eu/posts/test"/>
+    <updated>2024-09-14</updated>
     <summary></summary>
   </entry>
 </feed>
