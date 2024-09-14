@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Juli's site</title>
+  <link>http://127.0.0.1:8000</link>
+  <updated>2024-02-19</updated>
+  <entry>
+    <title>I installed linux on my phone</title>
+    <link href="http://127.0.0.1:8000/posts/pmosphone"/>
+    <updated>2024-02-19</updated>
+    <summary></summary>
+  </entry>
+</feed>
