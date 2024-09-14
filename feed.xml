@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Juli's site</title>
-  <link>http://localhost:8000</link>
+  <link>https://julimiro.eu</link>
   <updated>2024-09-14</updated>
   <entry>
     <title>silly test page</title>
-    <link href="http://localhost:8000/posts/test"/>
+    <link href="https://julimiro.eu/posts/test"/>
     <updated>2024-09-14</updated>
     <summary></summary>
   </entry>
