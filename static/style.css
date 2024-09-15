@@ -114,3 +114,7 @@ a:hover {
   #gif_buttons {
 	image-rendering: pixelated;
   }
+
+  .breakword {
+	word-wrap: break-word;
+  }
