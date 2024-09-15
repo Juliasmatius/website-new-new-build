@@ -10,6 +10,13 @@ body * {
 	color: #cdd6f4;
 	font-family: 'Atkinson Hyperlegible', 'Roboto Mono', Arial, sans-serif;
 }
+
+a {
+	color: #f5c2e7;
+}
+a:hover {
+	color:  #f38ba8;
+}
 .page {
 	display: flex;
 	width: 65%;
