@@ -51,7 +51,7 @@ fetch(`${apiUrl}?${new URLSearchParams(params)}`)
   .then(response => response.json())
   .then(data => {
     const weatherCodes = [
-      "unknown", "clearing","unknown","clouds forming","smoke","haze", 
+      "unknown", "clearing","unchanged (sorry the weather code is really vague)","clouds forming","smoke","haze", 
       "dust","dust","dust whirls","duststorm","mist","patches of fog","continuous fog", 
       "visible lightning", "precipitation that doesn't reach ground","precipitation at distance", 
       "precipitation nearby","thunderstorm but no precipitation","squalls","funnel clouds", 
