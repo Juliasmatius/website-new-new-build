@@ -6,9 +6,11 @@ html, body{
 	height: 100%;
 	font-size: 1.1em;
 }
-body * {
+
+body {
 	color: #cdd6f4;
 	font-family: 'Atkinson Hyperlegible', 'Roboto Mono', Arial, sans-serif;
+
 }
 
 a {
@@ -21,7 +23,6 @@ a:hover {
 	display: flex;
 	width: 65%;
 	margin: 0 auto;
-	
 	align-items: start;
 	padding-top: 3em;
 }
